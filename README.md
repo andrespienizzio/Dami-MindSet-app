@@ -1,4 +1,7 @@
-# BaSD - MindSet App codebase
+# BaSD-2021 - Final App Repository
+
+
+## BaSD - MindSet App codebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
