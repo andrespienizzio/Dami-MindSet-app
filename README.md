@@ -1,6 +1,4 @@
-<p align="center">
-    BaSD-2021 - Final App Repository
-</p>
+<h1 align="center">BaSD-2021 - Final App Repository</h1>
 
 ## BaSD - MindSet App codebase
 
